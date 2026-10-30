@@ -1,4 +1,4 @@
-# C# – Övning 8: Interface
+# Interface examples C#
 
 A small console app to practise interfaces in C#.
 
