@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Interface2
+{
+    internal class Program2 : IProgram
+    {
+        public void Start()
+        {
+            Console.WriteLine("Nu kör vi program 2");
+        }
+    }
+}
