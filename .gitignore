@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Interface2/obj
+/Interface2/bin/Debug/net9.0
+/Interface2/.vs/Interface2
+/InterfacePart2/bin/Debug/net9.0
+/InterfacePart2/obj
