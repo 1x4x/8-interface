@@ -1,6 +1,6 @@
 # Interface practise in C#
 
-A small console app to show interfaces in C#
+2 small console apps to show interfaces in C#
 
 
 
